@@ -2,7 +2,7 @@ on: [workflow_dispatch]
  
 name: Processing Infrastructure
 env:
-  APPLICATION_NAME: horus
+  APPLICATION_NAME: horusmalik
   LOCATION: uksouth  
   SUPPRESS_CONFIRM: True
   TEAM_NAME: Spo0onsmen
